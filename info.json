@@ -1,0 +1,94 @@
+{
+  "Gojo": {
+    "Anime": "Jujutsu Kaisen",
+    "Role": "Special Grade sorcerer and teacher at Tokyo Jujutsu High",
+    "Cursed Technique": "Limitless (Blue, Red, Hollow Purple), with the Six Eyes",
+    "Domain Expansion": "Unlimited Void",
+    "Hand Sign": "Crossed index and middle fingers (for Unlimited Void)",
+    "Powers": "Infinity barrier, near-unlimited cursed energy, reversed cursed technique",
+    "Personality": "Confident, playful, fiercely protective of his students"
+  },
+  "Sukuna": {
+    "Anime": "Jujutsu Kaisen",
+    "Role": "King of Curses, sealed inside Yuji Itadori",
+    "Cursed Technique": "Dismantle, Cleave, Fire Arrow",
+    "Domain Expansion": "Malevolent Shrine",
+    "Hand Sign": "Shrine-shaped hand sign used for Malevolent Shrine",
+    "Powers": "Extreme cursed energy, reversed cursed technique, master swordsman and fighter",
+    "Personality": "Cruel, arrogant, and bored by weaker opponents"
+  },
+  "Megumi": {
+    "Anime": "Jujutsu Kaisen",
+    "Role": "First-year student at Tokyo Jujutsu High",
+    "Cursed Technique": "Ten Shadows Technique (summons shikigami)",
+    "Domain Expansion": "Chimera Shadow Garden",
+    "Hand Sign": "Shadow hand signs used to summon shikigami (Divine Dog, Nue and others)",
+    "Powers": "Summoning shikigami, shadow manipulation",
+    "Personality": "Serious, calm, quietly caring"
+  },
+  "Yuji": {
+    "Anime": "Jujutsu Kaisen",
+    "Role": "Main protagonist, vessel of Sukuna",
+    "Cursed Technique": "None of his own, uses Divergent Fist and Black Flash",
+    "Domain Expansion": "None",
+    "Hand Sign": "None",
+    "Powers": "Superhuman strength and speed, Black Flash",
+    "Personality": "Kind, cheerful, determined"
+  },
+  "Eren": {
+    "Anime": "Attack on Titan",
+    "Role": "Main protagonist, Survey Corps member",
+    "Titan Type": "Attack Titan, later the Founding Titan",
+    "Has Titan Power": "Yes",
+    "Powers": "Titan shifting, memory inheritance, command over Subjects of Ymir (Founding Titan)",
+    "Personality": "Determined, impulsive, obsessed with freedom"
+  },
+  "Armin": {
+    "Anime": "Attack on Titan",
+    "Role": "Strategist of the Survey Corps",
+    "Titan Type": "Colossal Titan",
+    "Has Titan Power": "Yes",
+    "Powers": "Massive size, steam burst and heat blast",
+    "Personality": "Intelligent, thoughtful, gentle but brave"
+  },
+  "Mikasa": {
+    "Anime": "Attack on Titan",
+    "Role": "Elite soldier of the Survey Corps",
+    "Titan Type": "None",
+    "Has Titan Power": "No (she is an Ackerman)",
+    "Powers": "Ackerman strength, speed and combat skill",
+    "Personality": "Loyal, calm, protective of Eren"
+  },
+  "Levi": {
+    "Anime": "Attack on Titan",
+    "Role": "Captain of the Survey Corps Special Operations Squad",
+    "Titan Type": "None",
+    "Has Titan Power": "No (he is an Ackerman)",
+    "Powers": "Humanity's strongest soldier, ODM gear mastery",
+    "Personality": "Cold, disciplined, obsessed with cleanliness, deeply loyal"
+  },
+  "Light": {
+    "Anime": "Death Note",
+    "Role": "Main protagonist, the killer known as Kira",
+    "Abilities": "Genius intellect, strategic manipulation, uses the Death Note",
+    "Personality": "Intelligent, ambitious, with a god complex"
+  },
+  "L": {
+    "Anime": "Death Note",
+    "Role": "World-famous detective hunting Kira",
+    "Abilities": "Genius deduction, strategic planning, martial arts",
+    "Personality": "Eccentric, intelligent, loves sweets"
+  },
+  "Misa": {
+    "Anime": "Death Note",
+    "Role": "Second Kira, ally of Light",
+    "Abilities": "Shinigami Eyes (see names and lifespans) through a deal with the shinigami Rem",
+    "Personality": "Devoted, cheerful, impulsive"
+  },
+  "Ryuk": {
+    "Anime": "Death Note",
+    "Role": "Shinigami who dropped the Death Note into the human world",
+    "Abilities": "Flight, can only be seen by those who touched the Death Note, sees names and lifespans",
+    "Personality": "Bored, amused by humans, loves apples"
+  }
+}
